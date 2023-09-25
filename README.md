@@ -9,7 +9,7 @@ A small Program that check if input is palindrome (word or sentence that's spell
 
 ## Demo
 
-Link
+[Link](https://thepageguy.github.io/palindrome_checker/)
 
 ## Author
 
